@@ -1,5 +1,5 @@
 # RAG-Pipeline
-Here's my 1st ever RAG Pipiline; integrated with LLM- GROQ
+Here's my 1st ever RAG Pipeline; integrated with LLM- GROQ
 
 I have also attached 3 files which you can use to check-out the answers.
 If using those file make sure you download them and save them inside the same folder and name that folder as "data".
